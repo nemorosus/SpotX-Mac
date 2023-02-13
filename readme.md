@@ -31,7 +31,7 @@
 - Run The following command in Terminal:
 
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/nemorosus/SpotX-Mac/main/install.sh)
 ```
 
 #### Optional Install Arguments:
@@ -49,7 +49,7 @@ Use any combination of flags.
 The following example clears app cache, adds experimental features, leaves new UI enabled and blocks updates:
     
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh) -ceu
+bash <(curl -sSL https://raw.githubusercontent.com/nemorosus/SpotX-Mac/main/install.sh) -ceu
 ```
 
 
@@ -59,7 +59,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/inst
 - Run The following command in Terminal:
 
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/uninstall.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/nemorosus/SpotX-Mac/main/uninstall.sh)
 ```
 
 or
